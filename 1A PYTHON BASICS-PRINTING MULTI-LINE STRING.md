@@ -8,7 +8,6 @@ To create a Python program to print the string in multiple lines using triple qu
 2. Use triple quotes (`'''` or `"""`) to define a string that spans multiple lines.  
 3. Use the `print()` function to display the multi-line string.  
 4. Terminate the program.
-5. 
 
 ## PROGRAM
 ```python
