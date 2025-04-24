@@ -12,8 +12,8 @@ To write a Python program to print the following integer literals: 202_496_289
 ## PROGRAM
 ```
 python
-# Reg.No-
-# Name-
+# Reg.No-212223050048
+# Name-SIBIRAJI M
 # Write your code here
 
 print(202_496_289)
