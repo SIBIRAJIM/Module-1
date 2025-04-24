@@ -20,7 +20,8 @@ print(202_496_289)
 
 ```
 ## OUTPUT
-[Screenshot 2025-04-24 214037](https://github.com/user-attachments/assets/0ffd5924-4614-42ab-910b-5fde2ae4aa95)
+
+![Screenshot 2025-04-24 214037](https://github.com/user-attachments/assets/3af053eb-9c68-433b-b559-5c21aa6922a0)
 
 ## RESULT
 Thus the Python program to print the following integer literals: 202_496_289
