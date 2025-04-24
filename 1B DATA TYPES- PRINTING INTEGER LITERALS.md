@@ -14,13 +14,13 @@ To write a Python program to print the following integer literals: 202_496_289
 python
 # Reg.No-212223050048
 # Name-SIBIRAJI M
-# Write your code here
+# Write your code here!
 
 print(202_496_289)
 
 ```
 ## OUTPUT
-![Screenshot 2025-04-24 214037](https://github.com/user-attachments/assets/f813f619-f95b-401c-9929-8e41196155bc)
+[Screenshot 2025-04-24 214037](https://github.com/user-attachments/assets/0ffd5924-4614-42ab-910b-5fde2ae4aa95)
 
 ## RESULT
 Thus the Python program to print the following integer literals: 202_496_289
