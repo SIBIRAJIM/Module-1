@@ -14,8 +14,8 @@ To write a Python program for adding two complex numbers, and get the user input
 ## PROGRAM
 ```
 python
-# Reg.No-
-#Name-
+# Reg.No-212223050048
+#Name-SIBIRAJI M
 #Write your code here
 
 A=eval(input())
