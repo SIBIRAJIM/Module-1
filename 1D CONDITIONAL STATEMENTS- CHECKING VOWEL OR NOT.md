@@ -27,7 +27,8 @@ else:
 
 ## OUTPUT
 
-![Screenshot 2025-04-24 215557](https://github.com/user-attachments/assets/d8846b0e-23ab-4db6-a3c9-f8760c4c9fa8)
+![Screenshot 2025-04-24 215557](https://github.com/user-attachments/assets/4ae613d9-e091-47a9-b5bd-574856c3bc00)
+
 
 
 ## RESULT
