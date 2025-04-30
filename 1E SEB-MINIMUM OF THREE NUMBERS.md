@@ -20,7 +20,6 @@ python
 # Reg.No-212223050048
 # Name-SIBIRAJI M
 # Write your code here
-
 a=eval(input())
 b=eval(input())
 c=eval(input())
@@ -30,12 +29,9 @@ elif(b<c):
     print(f"The Smallest  of the three a= {a} b= {b} c= {c} is",b)
 else:
     print(f"The Smallest  of the three a= {a} b= {b} c= {c} is",c)
-
 ```
 
 ## OUTPUT
-
 ![Screenshot 2025-04-25 072743](https://github.com/user-attachments/assets/3bf13bf3-9560-4052-9618-f5c2d0f6ec36)
-
 ## RESULT
 Thus Python program to find the minimum between three integer numbers using a conditional expression (Ternary operator) is successfully executed.
