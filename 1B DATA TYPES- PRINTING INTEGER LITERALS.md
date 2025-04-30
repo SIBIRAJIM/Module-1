@@ -24,4 +24,4 @@ print(202_496_289)
 ![Screenshot 2025-04-24 214037](https://github.com/user-attachments/assets/3af053eb-9c68-433b-b559-5c21aa6922a0)
 
 ## RESULT
-Thus the Python program to print the following integer literals: 202_496_289
+Thus the Python program to print the following integer literals: 202_496_289 is executed successfully.
